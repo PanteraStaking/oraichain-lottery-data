@@ -81,6 +81,7 @@ The lottery runs on two different frequencies:
 - **Weekly Lottery**: Larger rewards drawn every Monday
 
 Both lotteries follow the same eligibility rules and winner selection process.
+As of today, the lottery is running only on a daily frequrncy.
 
 ## Why Delegate to PanteraStaking?
 
@@ -98,4 +99,4 @@ Check the `latest_winner.json` file in this repository for our most recent lucky
 
 *The Oraichain Lottery by PanteraStaking runs independently of the Oraichain network and is a validator initiative to reward our loyal delegators.*
 
-*Questions? Contact us at [YOUR_CONTACT_INFO]*
+*Questions? Visit [panterastaking.com](https://panterastaking.com) or contact us via [telegram](https://t.me/PanteraStaking_Official)*
