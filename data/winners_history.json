@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2025-05-03",
+    "frequency": "daily",
+    "winner": "orai1ynw0vcvrkshgpnvm6khnxykmyr5ws857jcpmvc",
+    "stake": 107.289999,
+    "reward": 0.0,
+    "eligible_count": 488,
+    "reward_addresses": [],
+    "network_apr": 13.575832359202966,
+    "validator_commission": 0.03
+  }
+]
