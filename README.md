@@ -1,6 +1,6 @@
 # Oraichain Lottery by PanteraStaking
 
-![PanteraStaking Logo](./panterastaking_logo.png)
+![PanteraStaking Logo](./images/panterastaking_logo.png)
 
 ## A Rewarding Experience for Our Delegators
 
