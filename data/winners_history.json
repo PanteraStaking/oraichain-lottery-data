@@ -22,5 +22,19 @@
     ],
     "network_apr": 13.575834236518723,
     "validator_commission": 0.03
+  },
+  {
+    "date": "2025-05-03",
+    "frequency": "daily",
+    "winner": "orai1guqvqwj5rucyhlun9ed6wl3unassaf5xqzpyhf",
+    "stake": 2814.0,
+    "reward": 0.037141997749898535,
+    "eligible_count": 486,
+    "reward_addresses": [
+      "orai1ynw0vcvrkshgpnvm6khnxykmyr5ws857jcpmvc",
+      "orai1acwx6jehd0fh2rmwkadgvxnn5nrv2fhad5kl4c"
+    ],
+    "network_apr": 13.575837885683063,
+    "validator_commission": 0.03
   }
 ]
