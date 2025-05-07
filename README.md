@@ -67,7 +67,7 @@ This creates a self-sustaining reward system where previous winners help fund fu
 Participation is automatic for all eligible delegators! Simply:
 
 1. Delegate at least 100 ORAI to PanteraStaking validator:
-   `oraivaloper1uhcwtfntsvk8gpwfxltesyl4e28aalmq9v9z0x`
+   `oraivaloper1h9gg3xavqdau6uy3r36vn4juvzsg0lqvszgtvc`
 2. Maintain your delegation
 3. Wait for the random drawing
 
