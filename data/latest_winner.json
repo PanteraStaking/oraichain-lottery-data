@@ -1,0 +1,15 @@
+{
+  "date": "2025-05-09",
+  "frequency": "daily",
+  "winner": "orai1temqf23q0y7wfdtct0yty6mgg3hmj4mhdc0yzt",
+  "stake": 109.997,
+  "reward": 0.4299887957293132,
+  "eligible_count": 6,
+  "reward_addresses": [
+    "orai1h9gg3xavqdau6uy3r36vn4juvzsg0lqvegnz8l",
+    "orai1fs25usz65tsryf0f8d5cpfmqgr0xwup4kjqpa0",
+    "orai1fwq0ct8ww0hm574vsdrhj7p5h0rd0vcz2hxsd0hfufwdlw4u78ksp4wj4y"
+  ],
+  "network_apr": 13.665259865305732,
+  "validator_commission": 0.03
+}
