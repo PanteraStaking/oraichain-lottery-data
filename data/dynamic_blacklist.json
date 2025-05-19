@@ -18,5 +18,9 @@
   "orai1xv86q66se48prd2ge82pgf5ctds7545sdm0qcm": {
     "blacklisted_at": "2025-05-18",
     "stake_at_time": "101.0"
+  },
+  "orai1fau4ecqhvpzsd6vlt5yazmjpvv7xmp00g7xd37": {
+    "blacklisted_at": "2025-05-19",
+    "stake_at_time": "148.43546"
   }
 }
