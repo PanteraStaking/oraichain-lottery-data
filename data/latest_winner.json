@@ -1,21 +1,21 @@
 {
-  "date": "2025-06-11",
+  "date": "2025-06-12",
   "frequency": "daily",
-  "winner": "orai1ksdalgm8mqc20chwy53p8wyrtxaefltuka5j7c",
-  "stake": 105.009998,
-  "reward": 0.4856405807958278,
+  "winner": "orai1mr5058a2lsl9ps82e9j6h7tqs53a4nkd3jn5p4",
+  "stake": 214.297693,
+  "reward": 0.48298478187681126,
   "eligible_count": 3,
   "reward_addresses": [
     "orai1fs25usz65tsryf0f8d5cpfmqgr0xwup4kjqpa0",
     "orai1fwq0ct8ww0hm574vsdrhj7p5h0rd0vcz2hxsd0hfufwdlw4u78ksp4wj4y",
     "orai1h9gg3xavqdau6uy3r36vn4juvzsg0lqvegnz8l",
-    "orai12h2qh0mujjytzhsth3sjeth6sg766kdr9868g7",
     "orai1z68v9ss22eveaxqp7afsqkmwc5068rlcw986dt",
     "orai1temqf23q0y7wfdtct0yty6mgg3hmj4mhdc0yzt",
     "orai18s8jx5zadss8yrqsfw20sh446j9t90r6nagyh5",
     "orai1ntdlej6nualg09962qvppu0s7radvs8ajryj8y",
-    "orai1xv86q66se48prd2ge82pgf5ctds7545sdm0qcm"
+    "orai1xv86q66se48prd2ge82pgf5ctds7545sdm0qcm",
+    "orai1ksdalgm8mqc20chwy53p8wyrtxaefltuka5j7c"
   ],
-  "network_apr": 13.477958081404784,
+  "network_apr": 13.445597721478908,
   "validator_commission": 0.03
 }
