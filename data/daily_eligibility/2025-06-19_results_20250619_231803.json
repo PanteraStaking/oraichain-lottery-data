@@ -1,0 +1,18 @@
+{
+  "date": "2025-06-19",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "orai18s8jx5zadss8yrqsfw20sh446j9t90r6nagyh5": 314.0,
+    "orai1temqf23q0y7wfdtct0yty6mgg3hmj4mhdc0yzt": 109.997,
+    "orai1mr5058a2lsl9ps82e9j6h7tqs53a4nkd3jn5p4": 214.297693
+  },
+  "winner": {
+    "address": "orai1mr5058a2lsl9ps82e9j6h7tqs53a4nkd3jn5p4",
+    "stake": 214.297693,
+    "reward": 0.47600387697975355
+  },
+  "blacklisted_stake": 87508.438211,
+  "network_apr": 13.236164698287757,
+  "validator_apr": 12.839079757339125,
+  "validator_commission": 0.03
+}
