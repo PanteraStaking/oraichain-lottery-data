@@ -1,0 +1,20 @@
+{
+  "date": "2025-06-27",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "orai1z68v9ss22eveaxqp7afsqkmwc5068rlcw986dt": 102.0,
+    "orai1xv86q66se48prd2ge82pgf5ctds7545sdm0qcm": 101.0,
+    "orai12h2qh0mujjytzhsth3sjeth6sg766kdr9868g7": 375.000001,
+    "orai1ntdlej6nualg09962qvppu0s7radvs8ajryj8y": 111.387867,
+    "orai1mr5058a2lsl9ps82e9j6h7tqs53a4nkd3jn5p4": 214.297693
+  },
+  "winner": {
+    "address": "orai1ntdlej6nualg09962qvppu0s7radvs8ajryj8y",
+    "stake": 111.387867,
+    "reward": 0.4757534391953963
+  },
+  "blacklisted_stake": 87345.860168,
+  "network_apr": 13.253824506570645,
+  "validator_apr": 12.856209771373525,
+  "validator_commission": 0.03
+}
